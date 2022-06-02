@@ -25,7 +25,7 @@ SECRET_KEY = ')&m4uo&c)j9-da@&!p2eom135_nsx2i5pprqc=&#ltxx1%l&56'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['fosfet.herokuapp.com/','127.0.0.1']
+ALLOWED_HOSTS = ['fosfet.herokuapp.com','127.0.0.1']
 
 
 # Application definition
